@@ -1,0 +1,46 @@
+.quote{
+    color:blue;
+}
+
+.thick-gray-border{
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    background-color: white;
+    
+    
+}
+main{
+    max-width: 1280px;
+    max-height:100%;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #dddddd;
+}
+
+.border-quote{
+    border-color: hotpink;
+    border-width:medium
+}
+.img{
+    display: block;
+    max-width:100%;
+    padding-bottom: 10px;
+    
+}
+
+#img-div{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+.timeline{
+    margin-top: 10px;
+    line-height: 30px;
+}
+
+h5{
+    text-align: center;
+}
